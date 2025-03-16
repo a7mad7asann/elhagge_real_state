@@ -1,0 +1,321 @@
+{
+  "navbar": {
+    "ar": {
+      "home": "الرئيسية",
+      "about": "من نحن",
+      "properties": "العقارات",
+      "contact": "اتصل بنا",
+      "logo": "/images/logos/slag6.png",
+      "language": "English"
+    },
+    "en": {
+      "home": "Home",
+      "about": "About",
+      "properties": "Properties",
+      "contact": "Contact",
+      "logo": "/images/logos/slag6.png",
+      "language": "العربية"
+    }
+  },
+  "heroSection": {
+    "ar": {
+      "title": "أفضل مكان للعثور على منزل أحلامك",
+      "description": "نحن وكالة عقارية متخصصة في تصميم المنازل الحديثة والعصرية. نحن هنا لمساعدتك في العثور على منزل أحلامك بأفضل التصاميم العصرية والجودة العالية.",
+      "stats": [
+        {
+          "label": "منتج متميز",
+          "value": 1200
+        },
+        {
+          "label": "عميل سعيد",
+          "value": 4500
+        },
+        {
+          "label": "جائزة محلية",
+          "value": 240
+        }
+      ],
+      "buttonText": "تواصل معنا",
+      "image": "/images/house.png"
+    },
+    "en": {
+      "title": "The Best Place to Find Your Dream Home",
+      "description": "We are a real estate agency specializing in designing modern and contemporary homes. We are here to help you find your dream home with the best designs and high quality.",
+      "stats": [
+        {
+          "label": "Premium Products",
+          "value": 1200
+        },
+        {
+          "label": "Happy Clients",
+          "value": 4500
+        },
+        {
+          "label": "Local Awards",
+          "value": 240
+        }
+      ],
+      "buttonText": "Contact Us",
+      "image": "/images/house.png"
+    }
+  },
+  "about": {
+    "en": {
+      "title": "Who Are We?",
+      "description": "We are a real estate company specializing in providing the best residential and commercial solutions for our clients. Our vision is to offer an exceptional experience for those seeking their dream home or a great investment opportunity.",
+      "image": "/images/build1.png",
+      "features": [
+        "Real Estate Expertise",
+        "Professional Team",
+        "Strong Relationships"
+      ]
+    },
+    "ar": {
+      "title": "من نحن؟",
+      "description": "نحن شركة متخصصة في مجال العقارات، نقدم أفضل الحلول السكنية والتجارية لعملائنا. رؤيتنا هي تقديم تجربة استثنائية لكل من يبحث عن منزل الأحلام أو فرصة استثمارية مميزة.",
+      "image": "/images/build1.png",
+      "features": [
+        "خبرة في العقارات",
+        "فريق محترف",
+        "علاقات قوية"
+      ]
+    }
+  },
+  "partnersSection": {
+    "partners": [
+      {
+        "name": "Adobe",
+        "logo": "/images/logos/slag1.svg",
+        "link": "https://www.adobe.com"
+      },
+      {
+        "name": "PayPal",
+        "logo": "/images/logos/slag2.svg",
+        "link": "https://www.paypal.com"
+      },
+      {
+        "name": "Webflow",
+        "logo": "/images/logos/slag3.svg",
+        "link": "https://webflow.com"
+      },
+      {
+        "name": "Amazon",
+        "logo": "/images/logos/slag4.svg",
+        "link": "https://www.amazon.com"
+      },
+      {
+        "name": "Google",
+        "logo": "/images/logos/slag5.svg",
+        "link": "https://www.google.com"
+      }
+    ]
+  },
+  "valueSection": {
+    "ar": {
+      "title": "القيمة التي نقدمها لك",
+      "description": "نحن نحرص على تقديم أفضل الحلول العقارية، مع مزايا تناسب احتياجاتك وتضمن لك أفضل العروض.",
+      "image": "/images/building.png",
+      "accordion": [
+        {
+          "title": "أفضل أسعار الفائدة في السوق",
+          "content": "نحن نقدم لك أفضل أسعار الفائدة المتاحة، مما يساعدك في تحقيق أقصى استفادة من استثماراتك العقارية."
+        },
+        {
+          "title": "تجنب الأسعار غير المستقرة",
+          "content": "نضمن لك استقرار الأسعار وتوفير أفضل العروض، حتى لا تقلق بشأن التغيرات غير المتوقعة."
+        },
+        {
+          "title": "أفضل الأسعار في السوق",
+          "content": "احصل على عقارك بأفضل الأسعار التنافسية مع عروض حصرية تناسب احتياجاتك."
+        },
+        {
+          "title": "أمان بياناتك",
+          "content": "نولي أمان معلوماتك أهمية قصوى، حيث نوفر لك بيئة آمنة لحماية بياناتك الشخصية."
+        }
+      ]
+    },
+    "en": {
+      "title": "The Value We Offer You",
+      "description": "We strive to provide the best real estate solutions, with benefits that suit your needs and guarantee the best deals.",
+      "image": "/images/building.png",
+      "accordion": [
+        {
+          "title": "Best Interest Rates",
+          "content": "We offer you the best available interest rates, helping you make the most of your real estate investments."
+        },
+        {
+          "title": "Avoid Price Instability",
+          "content": "We ensure price stability and offer the best deals so you don’t have to worry about unexpected changes."
+        },
+        {
+          "title": "Best Market Prices",
+          "content": "Get your property at the best competitive prices with exclusive offers that suit your needs."
+        },
+        {
+          "title": "Data Security",
+          "content": "We prioritize the security of your information, providing a safe environment to protect your personal data."
+        }
+      ]
+    }
+  },
+  "gallerySection": {
+    "title": {
+      "ar": "معرض الصور",
+      "en": "Photo Gallery"
+    },
+    "images": [
+      {
+        "src": "/images/build1.png",
+        "alt": {
+          "ar": "مبنى حديث بتصميم معماري مميز",
+          "en": "A modern building with a unique architectural design"
+        }
+      },
+      {
+        "src": "/images/build2.png",
+        "alt": {
+          "ar": "مجمع سكني فاخر بإطلالة رائعة",
+          "en": "A luxurious residential complex with a stunning view"
+        }
+      },
+      {
+        "src": "/images/build3.png",
+        "alt": {
+          "ar": "تصميم داخلي لمكتب عصري",
+          "en": "Interior design of a modern office"
+        }
+      },
+      {
+        "src": "/images/build4.png",
+        "alt": {
+          "ar": "منظر ليلي لناطحة سحاب",
+          "en": "Night view of a skyscraper"
+        }
+      },
+      {
+        "src": "/images/build5.png",
+        "alt": {
+          "ar": "مجمع تجاري حديث مع مساحات خضراء",
+          "en": "A modern commercial complex with green spaces"
+        }
+      },
+      {
+        "src": "/images/build6.png",
+        "alt": {
+          "ar": "شقة راقية بتصميم مودرن",
+          "en": "A luxurious apartment with a modern design"
+        }
+      },
+      {
+        "src": "/images/build7.png",
+        "alt": {
+          "ar": "مبنى إداري بواجهة زجاجية أنيقة",
+          "en": "An administrative building with an elegant glass facade"
+        }
+      },
+      {
+        "src": "/images/build8.png",
+        "alt": {
+          "ar": "مجمع سكني فاخر مع حديقة مركزية",
+          "en": "A luxurious residential complex with a central garden"
+        }
+      }
+    ]
+  },
+  "ar": {
+    "propertyType": [
+      "شقة",
+      "فيلا",
+      "منزل",
+      "استوديو"
+    ],
+    "condition": [
+      "جديد",
+      "مستعمل"
+    ],
+    "labels": {
+      "name": "الاسم الكامل",
+      "phone": "رقم الهاتف",
+      "address": "العنوان",
+      "propertyType": "نوع العقار",
+      "rooms": "عدد الغرف",
+      "area": "المساحة (م²)",
+      "condition": "حالة العقار",
+      "price": "السعر",
+      "negotiable": "السعر قابل للتفاوض",
+      "search": "البحث عن عقار (تواصل معنا)"
+    }
+  },
+  "en": {
+    "propertyType": [
+      "Apartment",
+      "Villa",
+      "House",
+      "Studio"
+    ],
+    "condition": [
+      "New",
+      "Used"
+    ],
+    "labels": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "address": "Address",
+      "propertyType": "Property Type",
+      "rooms": "Rooms",
+      "area": "Area (m²)",
+      "condition": "Condition",
+      "price": "Price",
+      "negotiable": "Negotiable Price",
+      "search": "Search for Property (Contact Us)"
+    }
+  },
+  
+    "footer": {
+      "ar": {
+        "company": "الحاجه",
+        "slogan": "ابحث عن عقارك المثالي معنا.",
+        "contact": {
+          "phone": ["+123 456 7890", "+123 456 7890"],
+          "email": "support@hyperestate.com",
+          "address": "123 شارع العقارات، نيويورك، الولايات المتحدة"
+        },
+        "offer": {
+          "title": "عرض حصري",
+          "description": "سجل الآن واحصل على خصم 10% على أول عملية شراء عقارية.",
+          "button": "احصل على العرض"
+        },
+        "follow": "تابعنا على:",
+        "social": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#",
+          "linkedin": "#"
+        },
+        "copyright": "© 2025 الحاجه. جميع الحقوق محفوظة."
+      },
+      "en": {
+        "company": "Al Hagga",
+        "slogan": "Find your perfect property with us.",
+        "contact": {
+          "phone": ["+123 456 7890", "+123 456 7890"],
+          "email": "support@hyperestate.com",
+          "address": "123 Real Estate St, New York, USA"
+        },
+        "offer": {
+          "title": "Exclusive Offer",
+          "description": "Sign up now and get 10% off your first real estate purchase.",
+          "button": "Get the Offer"
+        },
+        "follow": "Follow us on:",
+        "social": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#",
+          "linkedin": "#"
+        },
+        "copyright": "© 2025 Al Haga. All rights reserved."
+      }
+    }
+  }
+  
